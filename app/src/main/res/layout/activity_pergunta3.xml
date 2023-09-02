@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient"
+    tools:context=".Pergunta3">
+
+    <TextView
+        android:id="@+id/txtNome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textColor="@color/cinzaClaro"
+        android:layout_marginTop="10sp"
+        android:layout_marginStart="10sp"
+        android:layout_marginEnd="10sp"
+        tools:layout_editor_absoluteX="206dp"
+        tools:layout_editor_absoluteY="69dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/numero3"
+        android:textSize="32sp"
+        android:textAlignment="center"
+        android:layout_marginTop="10sp"
+        android:textStyle="italic"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp"
+        tools:layout_editor_absoluteX="168dp"
+        tools:layout_editor_absoluteY="164dp"
+        android:textColor="@color/white"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="180sp"
+        android:layout_marginTop="20sp"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp"
+        app:srcCompat="@drawable/stanlee" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pergunta3"
+        android:textColor="@color/white"
+        android:textSize="23sp"
+        android:layout_marginStart="10sp"
+        android:layout_marginEnd="10sp"
+        android:layout_marginTop="20sp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="208dp" />
+
+    <RadioGroup
+        android:id="@+id/rgpPergunta3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="142dp"
+        tools:layout_editor_absoluteY="347dp"
+        android:layout_marginStart="40sp"
+        android:layout_marginEnd="40sp"
+        android:layout_marginTop="20sp">
+
+        <RadioButton
+            android:id="@+id/rbtA3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="14sp"
+            android:text="@string/a3"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            app:buttonTint="@color/cinzaClaro"
+            android:checked="true"
+            />
+
+        <RadioButton
+            android:id="@+id/rbtB3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:paddingLeft="14sp"
+            android:text="@string/b3"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            android:paddingTop="10sp"
+            app:buttonTint="@color/cinzaClaro"
+            />
+
+        <RadioButton
+            android:id="@+id/rbtC3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/c3"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            android:paddingLeft="14sp"
+            android:paddingTop="10sp"
+            app:buttonTint="@color/cinzaClaro"
+            />
+
+        <RadioButton
+            android:id="@+id/rbtD3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/d3"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            android:paddingLeft="14sp"
+            android:paddingTop="10sp"
+            app:buttonTint="@color/cinzaClaro"
+            />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnProxima3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="14sp"
+        app:cornerRadius="15sp"
+        android:layout_marginTop="20sp"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="20sp"
+        android:backgroundTint="@color/verde"
+        android:backgroundTintMode="@color/verdeClick"
+        android:text="@string/proxima"
+        android:textSize="25sp"
+        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteY="611dp"
+        />
+
+</LinearLayout>

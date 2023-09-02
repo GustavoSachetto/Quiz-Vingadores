@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cinzaClaro">#DADADA</color>
+    <color name="azulado">#2c3e50</color>
+    <color name="cinzaEscuro">#161927</color>
+    <color name="azul">#3876AA</color>
+    <color name="azulClick">#6BA6D8</color>
+    <color name="cinza">#4E4E4E</color>
+    <color name="cinzaClick">#838383</color>
+    <color name="verde">#49884C</color>
+    <color name="verdeClick">#86CA8A</color>
+    <color name="vermelho">#C54545</color>
+    <color name="vermelhoClick">#C55454</color>
+    <color name="laranja">#E48647</color>
+    <color name="laranjaClick">#FFBE92</color>
+    <color name="amarelo">#C9C242</color>
+    <color name="amareloClick">#FDF9A5</color>
+    <color name="azulClaro">#47B2E4</color>
+    <color name="azulClaroClick">#9ED5EF</color>
+    <color name="marrom">#B57F51</color>
+    <color name="marromClick">#C8AF99</color>
+    <color name="rosa">#B141AF</color>
+    <color name="rosaClick">#E4A3E3</color>
+    <color name="roxo">#7647E4</color>
+    <color name="roxoClick">#BBA8E6</color>
+    <color name="azulEscuro">#475CE4</color>
+    <color name="azulEscuroClick">#A1AAEA</color>
+</resources>

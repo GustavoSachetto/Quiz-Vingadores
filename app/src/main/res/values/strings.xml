@@ -1,0 +1,93 @@
+<resources>
+    <!--Base-->
+    <string name="app_name">Quiz Os Vingadores</string>
+    <string name="gustavoSachetto">Criado por <b>Gustavo Sachetto</b></string>
+    <string name="osVingadores">Quiz - Os Vingadores</string>
+
+    <!--Botões-->
+    <string name="jogar">Jogar</string>
+    <string name="instrucao">Instruções</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="proxima">Próxima</string>
+    <string name="voltar">Voltar</string>
+
+    <!--Input-->
+    <string name="digiteNome">Digite seu nome:</string>
+    <string name="nome">Nome</string>
+
+    <!--Textos-->
+    <string name="acertos">Você acertou um total de:</string>
+    <string name="instrucoes">Neste quiz serão realizadas 10 perguntas de alternativa sobre o filme Os Vingadores(2012). A seguir digite seu nome para iniciar o quiz.</string>
+
+    <!--Perguntas-->
+    <string name="numero1">Pergunta - 1</string>
+    <string name="pergunta1">Qual é o nome verdadeiro do Gavião Arqueiro?</string>
+    <string name="a1">Clint Hunter</string>
+    <string name="b1">Jake Barton</string>
+    <string name="c1">Clint Barton</string><!--Correta-->
+    <string name="d1">Flint Romanoff</string>
+
+    <string name="numero2">Pergunta - 2</string>
+    <string name="pergunta2">Logo no começo do filme, Viúva Negra convence um herói a se juntar aos Vingadores. Quem era este heroi?</string>
+    <string name="a2">Hulk</string><!--Correta-->
+    <string name="b2">Homem de Ferro</string>
+    <string name="c2">Capitão América</string>
+    <string name="d2">Gavião Arqueiro</string>
+
+    <string name="numero3">Pergunta - 3</string>
+    <string name="pergunta3">Stan Lee aparece em todos os filmes da Marvel, quando ele apareceu nos Vingadores?</string>
+    <string name="a3">Nа guеrrа, еlе é um dоѕ сіvіѕ еm реrіgо.</string>
+    <string name="b3">Nо fіnаl, еlе араrесе еm um tеlејоrnаl.</string><!--Correta-->
+    <string name="c3">Nо quаrtеl dе Lоkі, еlе é um dе ѕеuѕ ајudаntеѕ.</string>
+    <string name="d3">Quаndо Lоkі аtаса о muѕеu, еlе é um dos ajoelhados.</string>
+
+    <string name="numero4">Pergunta - 4</string>
+    <string name="pergunta4">Qual o nome da agencia que é comandada pelo Nick Fury?</string>
+    <string name="a4">C.H.I.E.L.D.</string>
+    <string name="b4">S.H.I.E.L.L.D.</string>
+    <string name="c4">S.H.I.E.L.D.</string><!--Correta-->
+    <string name="d4">S.H.I.L.D.</string>
+
+    <string name="numero5">Pergunta - 5</string>
+    <string name="pergunta5">Qual herói não foi chamado inicialmente, mas apareceu no filme?</string>
+    <string name="a5">Hulk</string>
+    <string name="b5">Viúva Negra</string>
+    <string name="c5">Thor</string><!--Correta-->
+    <string name="d5">Capitão América</string>
+
+    <string name="numero6">Pergunta - 6</string>
+    <string name="pergunta6">Qual cidade dos EUA é atacada por Loki?</string>
+    <string name="a6">Nova Jersey</string>
+    <string name="b6">Seatlle</string>
+    <string name="c6">Los Angeles</string>
+    <string name="d6">Nova Iorque</string><!--Correta-->
+
+    <string name="numero7">Pergunta - 7</string>
+    <string name="pergunta7">O que torna Hulk, Thor, Capitão América e Homem de Ferro heróis?</string>
+    <string name="a7">Rаdіаçãо gаmа, mаrtеlо, еѕсudо е аrmаdurа.</string><!--Correta-->
+    <string name="b7">Rаdіаçãо gаmа, сајаdо, еѕсudо е аrсо.</string>
+    <string name="c7">Сарасеtе, mаrtеlо, еѕсudо е аrmаdurа.</string>
+    <string name="d7">Rаdіаçãо gаmа, сајаdо, аrmа е аrmаdurа.</string>
+
+    <string name="numero8">Pergunta - 8</string>
+    <string name="pergunta8">Qual desses heróis é o mais velho?</string>
+    <string name="a8">Nick Fury</string>
+    <string name="b8">Hulk</string>
+    <string name="c8">Thor</string><!--Correta-->
+    <string name="d8">Capitão América</string>
+
+    <string name="numero9">Pergunta - 9</string>
+    <string name="pergunta9">Em qual das opções todos os heróis não fizeram parte do filme?</string>
+    <string name="a9">Саріtãо Маrvеl, Саріtãо Аmérіса, Соіѕа е Vіúvа Nеgrа.</string>
+    <string name="b9">Саріtãо Маrvеl, Тосhа Нumаnа, Мulhеr- Іnvіѕіvеl е Wоlvеrіnе.</string><!--Correta-->
+    <string name="c9">Wоlvеrіnе, Саріtãо Маrvеl, Теmрѕtаdе е Tony stark.</string>
+    <string name="d9">Ѕurfіѕtа Рrаtеаdо, Ѕtеvе Rоgеrѕ, Тосhа Нumаnа е Wоlvеrіnе.</string>
+
+    <string name="numero10">Pergunta - 10</string>
+    <string name="pergunta10">A Viúva Negra é:</string>
+    <string name="a10">Francesa</string>
+    <string name="b10">Alemã</string>
+    <string name="c10">Russa</string><!--Correta-->
+    <string name="d10">Inglesa</string>
+</resources>
