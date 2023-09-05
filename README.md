@@ -2,7 +2,7 @@
 
 
 # Quiz-Vingadores
-Esse projeto foi realizado para as aulas de Desenvolvimento WEB. Onde eu criei um quiz completamente do zero com 10 perguntas sobre um tema aleatorio. __No final das dez perguntas o app vai retornar seu nome e a quantidade de pontos realizados no quiz.__ 
+Esse projeto foi realizado para as aulas de Desenvolvimento Mobile. Onde eu criei um quiz completamente do zero com 10 perguntas sobre um tema aleatorio. __No final das dez perguntas o app vai retornar seu nome e a quantidade de pontos realizados no quiz.__ 
 ## O Projeto contém: 
 
 * __Design de telas:__
